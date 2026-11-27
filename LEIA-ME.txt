@@ -1,0 +1,19 @@
+LYMPO HIGIENIZAÇÕES - COMO INSTALAR NO CELULAR
+
+1. Extraia (descompacte) este arquivo ZIP para obter uma pasta com os arquivos:
+   - index.html
+   - manifest.json
+   - sw.js
+   - icon-192.png
+   - icon-512.png
+
+2. Acesse https://app.netlify.com/drop no computador ou celular.
+
+3. Arraste a pasta inteira para a area indicada na tela do Netlify Drop.
+   O site gera um endereco HTTPS gratuito na hora.
+
+4. Abra esse link no Google Chrome do seu celular Android.
+   Toque nos tres pontinhos (canto superior direito) e escolha "Instalar aplicativo"
+   (ou "Adicionar a tela inicial").
+
+Pronto! O icone oficial da Lympo aparece na tela do celular e o sistema abre em tela cheia.

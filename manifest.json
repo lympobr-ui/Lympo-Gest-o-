@@ -1,0 +1,25 @@
+{
+  "name": "Lympo Higienizações - Gestão",
+  "short_name": "Lympo Gestão",
+  "description": "Sistema de gestão de clientes, serviços, agenda, pedidos, notas de serviço e financeiro da Lympo Higienizações.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FFFFFF",
+  "theme_color": "#060E1A",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
